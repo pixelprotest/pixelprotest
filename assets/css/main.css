@@ -794,7 +794,7 @@ article a:hover, article a:focus {
   width: 180px;
   background-color: black;
   background-repeat: no-repeat;
-  -webkit-mask: url("/assets/img/proxipretsel.png") center bottom;
+  -webkit-mask: url("assets/img/proxipretsel.png") center bottom;
   -webkit-mask-size: contain;
   -webkit-mask-repeat: no-repeat;
   -webkit-mask-clip: border-box;
@@ -954,7 +954,7 @@ hr {
         -ms-flex-negative: 0;
             flex-shrink: 0;
     background-image: url("https://blog.marvelapp.com/wp-content/uploads/2016/08/fullsizerender_720-96x96.jpg");
-    background-image: url("/assets/img/me2.jpg");
+    background-image: url("assets/img/me2.jpg");
     background-size: cover;
     border-radius: 100%;
     margin-bottom: 20px;
@@ -1246,7 +1246,7 @@ hr {
       position: relative;
       height: 250px;
       width: 100%;
-      background-image: url("/assets/img/postimage.jpg");
+      background-image: url("assets/img/postimage.jpg");
       background-size: cover;
       background-repeat: no-repeat;
       background-position: center; }
